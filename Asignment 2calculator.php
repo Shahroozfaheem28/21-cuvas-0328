@@ -48,5 +48,9 @@ elseif($operator == '%')
    $result = ($n1*100)/$n2;
  echo "<center><h2>The Percentage of this $n1 number is:  $result</h2></center>";
 }
+else{
+ echo"Plesae enter Numbers";
+}
+ 
 }
 ?>
